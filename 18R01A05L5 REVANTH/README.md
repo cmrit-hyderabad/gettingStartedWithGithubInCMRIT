@@ -1,7 +1,7 @@
-###Kodati Revanth
+### Kodati Revanth
 
-#####python 
-#####java
-#####excel
-#####c
-#####machine learning
+> python 
+> java
+> excel
+> c
+> machine learning
